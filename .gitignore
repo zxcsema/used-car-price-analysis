@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter/
+.cache/
+*.pyc
+*.zip
+
+/reports/*
+!/reports/segment_errors.csv
+!/reports/figures/
+/reports/figures/*
+!/reports/figures/*.png
