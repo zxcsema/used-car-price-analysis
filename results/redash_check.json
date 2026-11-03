@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-11-03T23:10:16.038394+00:00",
+  "redash_version": "26.9.0",
+  "data_source_id": 1,
+  "forced_queries": {
+    "intervals": {
+      "id": 5,
+      "rows": 1
+    },
+    "inference": {
+      "id": 4,
+      "rows": 2
+    },
+    "effect": {
+      "id": 3,
+      "rows": 1
+    },
+    "group_metrics": {
+      "id": 2,
+      "rows": 2
+    },
+    "totals": {
+      "id": 1,
+      "rows": 1
+    }
+  },
+  "dashboards": [
+    {
+      "id": 1,
+      "name": "SMS: результат эксперимента",
+      "url": "http://127.0.0.1:5055/dashboards/1-sms-",
+      "widgets": 10,
+      "data_widgets": 8
+    }
+  ],
+  "aggregates_match_notebook": true,
+  "object_counts": {
+    "queries": 5,
+    "dashboards": 1,
+    "widgets": 10,
+    "data_widgets": 8
+  }
+}

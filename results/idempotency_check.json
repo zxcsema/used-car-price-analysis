@@ -1,0 +1,133 @@
+{
+  "same_object_ids": true,
+  "no_duplicates": true,
+  "postgres_reloaded_without_row_duplication": true,
+  "objects": {
+    "sources": [
+      1
+    ],
+    "queries": {
+      "sms_ab_power_table": {
+        "id": 12,
+        "visualizations": [
+          12,
+          24
+        ]
+      },
+      "sms_ab_power_curve": {
+        "id": 11,
+        "visualizations": [
+          11,
+          27
+        ]
+      },
+      "sms_ab_aa_histogram": {
+        "id": 10,
+        "visualizations": [
+          10,
+          26
+        ]
+      },
+      "sms_ab_aa_summary": {
+        "id": 9,
+        "visualizations": [
+          9,
+          23
+        ]
+      },
+      "sms_ab_available_mde": {
+        "id": 8,
+        "visualizations": [
+          8,
+          22
+        ]
+      },
+      "sms_ab_planning_curve": {
+        "id": 7,
+        "visualizations": [
+          7,
+          25
+        ]
+      },
+      "sms_ab_planning": {
+        "id": 6,
+        "visualizations": [
+          6,
+          21
+        ]
+      },
+      "sms_ab_intervals": {
+        "id": 5,
+        "visualizations": [
+          5,
+          20
+        ]
+      },
+      "sms_ab_inference": {
+        "id": 4,
+        "visualizations": [
+          4,
+          19
+        ]
+      },
+      "sms_ab_effect": {
+        "id": 3,
+        "visualizations": [
+          3,
+          15,
+          16
+        ]
+      },
+      "sms_ab_group_metrics": {
+        "id": 2,
+        "visualizations": [
+          2,
+          17,
+          18
+        ]
+      },
+      "sms_ab_totals": {
+        "id": 1,
+        "visualizations": [
+          1,
+          13,
+          14
+        ]
+      }
+    },
+    "dashboards": {
+      "SMS: дизайн и проверка метода": {
+        "id": 2,
+        "widgets": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "SMS: результат эксперимента": {
+        "id": 1,
+        "widgets": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    }
+  },
+  "historical": true,
+  "recorded_at": "2026-11-03T20:19:03+00:00",
+  "scope": "Историческая проверка прежней конфигурации до сокращения дашбордов; актуальное состояние отражено в redash_check.json."
+}

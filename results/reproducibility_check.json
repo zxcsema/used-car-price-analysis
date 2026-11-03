@@ -1,0 +1,21 @@
+{
+  "clean_kernel_runs": 2,
+  "csv_and_figures_identical": true,
+  "code_cells": 14,
+  "error_outputs": 0,
+  "artifact_sha256": {
+    "results/test_consistency.csv": "f17760d12c3b7daa270044d6eba1b85e2d251135443ab74548938ac9a8beff3c",
+    "results/sim_aa_summary.csv": "51c02b6854c32611258f895fc2a47b8557006cd6b5f0b281148af846f49b8aa7",
+    "results/experiment_summary.csv": "afebc2097ed02cb16562be0cfb91a0e945fac0ff3ffa122eb9988dc33aa1d502",
+    "results/group_summary.csv": "fd8850dfad077b5d868e5b2abbf6cbd732c9e22bd31795b552ed1326adbb176e",
+    "results/available_mde.csv": "b6e13e406115ebd4e4434aac4becc05322960ac26833cf4395a24f543f77ff9a",
+    "results/planning_results.csv": "0d901577fbd036a7c3fc43e9c6bfcf7babe33f9574984e0206993c547514ebf9",
+    "results/sim_power_results.csv": "a868237bb1db05de2d796034e6d397282b079123f5a78734f1189d2e3b2c8dfa",
+    "results/sim_aa_histogram.csv": "11475561bcea462cd7acad5786a23a0e48bfa893f723c61fd6bb9f081c671dc8",
+    "results/data_checks.csv": "8f231edda911750582f0e354060ddf1dddea8c0d1c32f88751d0744154940ff7",
+    "figures/aa_pvalues.png": "54231433551aaae9d6f78693eb8e0c226cb43f491021159291ba77e4942d41d7",
+    "figures/power_curve.png": "e0b1a9571b53841342a9d9adb2bc54563c7cc31c3e7886e37dbacc9551a1a727",
+    "figures/experiment_result.png": "b2df94e6c114cb922ef871865134ab8fa535d01d36e63013625ebce64d0e7b97",
+    "figures/sample_size.png": "2096bdfefef3c0f5ff52bbad44b20a41ce89c5575c2e97212f5c33cc6c7ad492"
+  }
+}

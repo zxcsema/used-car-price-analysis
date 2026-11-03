@@ -1,0 +1,13 @@
+{
+  "rows": {
+    "experiment_users": 200039,
+    "experiment_summary": 1,
+    "planning_results": 18,
+    "available_mde": 3,
+    "sim_aa_summary": 1,
+    "sim_aa_histogram": 20,
+    "sim_power_results": 8
+  },
+  "client_aggregates_match_notebook": true,
+  "effect_matches_notebook": true
+}

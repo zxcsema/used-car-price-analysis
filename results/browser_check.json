@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-11-03T23:10:21.044454+00:00",
+  "browser": "Chromium (Playwright)",
+  "dashboards": [
+    {
+      "dashboard": "SMS: результат эксперимента",
+      "url": "http://127.0.0.1:5055/dashboards/1-sms-",
+      "widgets": 10,
+      "chart": [
+        {
+          "x": [
+            "A: без SMS",
+            "B: SMS"
+          ],
+          "y": [
+            60.32800975434248,
+            63.651093707804485
+          ]
+        }
+      ],
+      "errors": [],
+      "screenshots": [
+        "figures/redash_result.png",
+        "figures/redash_decision.png"
+      ],
+      "decision": true,
+      "onlyBusinessDashboardListed": true
+    }
+  ],
+  "page_errors": []
+}

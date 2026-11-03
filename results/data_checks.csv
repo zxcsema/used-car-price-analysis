@@ -1,0 +1,9 @@
+check,value
+rows,200039
+unique_client_id,200039
+duplicate_client_id,0
+missing_client_id,0
+missing_treatment_flg,0
+missing_target,0
+invalid_treatment_flg,0
+invalid_target,0

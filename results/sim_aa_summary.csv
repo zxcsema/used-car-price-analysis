@@ -1,0 +1,2 @@
+p0,n_per_group,repeats,seed,alpha,rejected,rejection_rate,ci_lower,ci_upper
+0.5,30909,5000,42,0.05,234,0.0468,0.04128549558366106,0.053010349459338725

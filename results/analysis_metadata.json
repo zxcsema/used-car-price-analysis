@@ -1,0 +1,20 @@
+{
+  "source_url": "https://sklift.s3.eu-west-2.amazonaws.com/uplift_train.csv.gz",
+  "source_sha256": "0a218e864a1ec1dfe26e980a082b81d5f46d199c4a6ae32abbaa95265af1c2c7",
+  "design_sha256": "fa7fefcda9c706bf6db0f7ded2054b0246b712830666a250fdbaf3fa45ad162a",
+  "alpha": 0.05,
+  "power": 0.8,
+  "p0": 0.5,
+  "delta": 0.01,
+  "n_sim_per_group": 30909,
+  "repeats": 5000,
+  "seed_aa": 42,
+  "seed_ab": 43,
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.11.2"
+  }
+}
